@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Firebase Chat',
+      title: 'Flutter Firebase Chat CI',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         brightness: Brightness.dark,
